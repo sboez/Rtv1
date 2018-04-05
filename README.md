@@ -8,3 +8,7 @@ These computer-generated images each represent a scene, seen from a specific pos
 defined by simple geometric objects, and having a lighting system.
 
 make ./rtv1 scenes/scene
+
+![screen shot 2018-04-05 at 4 15 35 pm](https://user-images.githubusercontent.com/23494780/38371403-a252f16e-38ec-11e8-8927-078f0ef0646a.png)
+
+![screen shot 2018-04-05 at 4 13 09 pm](https://user-images.githubusercontent.com/23494780/38371401-a23a0fdc-38ec-11e8-847a-0324b36dd71a.png)
